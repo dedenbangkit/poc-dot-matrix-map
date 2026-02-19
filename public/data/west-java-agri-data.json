@@ -1,0 +1,571 @@
+{
+  "metadata": {
+    "description": "Agricultural data for West Java districts",
+    "year": 2024,
+    "source": "Random generated data for visualization"
+  },
+  "data": [
+    {
+      "id": "32-01",
+      "kabkot": "Bogor",
+      "farmland_hectares": 45230,
+      "annual_yield_tons": 128500,
+      "farmers_count": 32150,
+      "rainfall_mm": 3200,
+      "primary_crop": "rice",
+      "soil_type": "alluvial",
+      "crops_grown": [
+        { "name": "rice", "value": 58200 },
+        { "name": "cassava", "value": 32400 },
+        { "name": "sweet_potato", "value": 21500 },
+        { "name": "vegetables", "value": 16400 }
+      ],
+      "farming_methods": [
+        { "name": "conventional", "value": 28500 },
+        { "name": "organic", "value": 16730 }
+      ],
+      "description": "Major agricultural hub with diverse crop production"
+    },
+    {
+      "id": "32-02",
+      "kabkot": "Sukabumi",
+      "farmland_hectares": 62400,
+      "annual_yield_tons": 185200,
+      "farmers_count": 48900,
+      "rainfall_mm": 2850,
+      "primary_crop": "rice",
+      "soil_type": "volcanic",
+      "crops_grown": [
+        { "name": "rice", "value": 92600 },
+        { "name": "tea", "value": 45300 },
+        { "name": "rubber", "value": 28100 },
+        { "name": "coconut", "value": 19200 }
+      ],
+      "farming_methods": [
+        { "name": "conventional", "value": 42100 },
+        { "name": "terracing", "value": 20300 }
+      ],
+      "description": "Extensive rice paddies with highland tea plantations"
+    },
+    {
+      "id": "32-03",
+      "kabkot": "Cianjur",
+      "farmland_hectares": 51800,
+      "annual_yield_tons": 156400,
+      "farmers_count": 41200,
+      "rainfall_mm": 2600,
+      "primary_crop": "rice",
+      "soil_type": "volcanic",
+      "crops_grown": [
+        { "name": "rice", "value": 85200 },
+        { "name": "vegetables", "value": 35600 },
+        { "name": "fruits", "value": 22400 },
+        { "name": "tobacco", "value": 13200 }
+      ],
+      "farming_methods": [
+        { "name": "conventional", "value": 32400 },
+        { "name": "organic", "value": 12800 },
+        { "name": "greenhouse", "value": 6600 }
+      ],
+      "description": "Famous for premium quality Cianjur rice variety"
+    },
+    {
+      "id": "32-04",
+      "kabkot": "Bandung",
+      "farmland_hectares": 28900,
+      "annual_yield_tons": 72300,
+      "farmers_count": 18500,
+      "rainfall_mm": 1950,
+      "primary_crop": "vegetables",
+      "soil_type": "volcanic",
+      "crops_grown": [
+        { "name": "vegetables", "value": 38500 },
+        { "name": "strawberry", "value": 15200 },
+        { "name": "flowers", "value": 11400 },
+        { "name": "tea", "value": 7200 }
+      ],
+      "farming_methods": [
+        { "name": "greenhouse", "value": 12400 },
+        { "name": "hydroponics", "value": 9200 },
+        { "name": "organic", "value": 7300 }
+      ],
+      "description": "Highland vegetable and flower production center"
+    },
+    {
+      "id": "32-05",
+      "kabkot": "Garut",
+      "farmland_hectares": 58700,
+      "annual_yield_tons": 142800,
+      "farmers_count": 52300,
+      "rainfall_mm": 2400,
+      "primary_crop": "rice",
+      "soil_type": "volcanic",
+      "crops_grown": [
+        { "name": "rice", "value": 68400 },
+        { "name": "citrus", "value": 35700 },
+        { "name": "potato", "value": 24300 },
+        { "name": "garlic", "value": 14400 }
+      ],
+      "farming_methods": [
+        { "name": "conventional", "value": 38200 },
+        { "name": "terracing", "value": 20500 }
+      ],
+      "description": "Known for citrus and highland vegetable production"
+    },
+    {
+      "id": "32-06",
+      "kabkot": "Tasikmalaya",
+      "farmland_hectares": 47200,
+      "annual_yield_tons": 138900,
+      "farmers_count": 39800,
+      "rainfall_mm": 2700,
+      "primary_crop": "rice",
+      "soil_type": "alluvial",
+      "crops_grown": [
+        { "name": "rice", "value": 72500 },
+        { "name": "coconut", "value": 31200 },
+        { "name": "banana", "value": 21800 },
+        { "name": "cassava", "value": 13400 }
+      ],
+      "farming_methods": [
+        { "name": "conventional", "value": 31500 },
+        { "name": "organic", "value": 15700 }
+      ],
+      "description": "Traditional rice farming with coconut plantations"
+    },
+    {
+      "id": "32-07",
+      "kabkot": "Ciamis",
+      "farmland_hectares": 42100,
+      "annual_yield_tons": 115600,
+      "farmers_count": 35400,
+      "rainfall_mm": 2550,
+      "primary_crop": "rice",
+      "soil_type": "alluvial",
+      "crops_grown": [
+        { "name": "rice", "value": 54800 },
+        { "name": "palm_sugar", "value": 28900 },
+        { "name": "coconut", "value": 19600 },
+        { "name": "banana", "value": 12300 }
+      ],
+      "farming_methods": [
+        { "name": "conventional", "value": 26800 },
+        { "name": "agroforestry", "value": 15300 }
+      ],
+      "description": "Major palm sugar producing region"
+    },
+    {
+      "id": "32-08",
+      "kabkot": "Kuningan",
+      "farmland_hectares": 35600,
+      "annual_yield_tons": 98400,
+      "farmers_count": 28700,
+      "rainfall_mm": 2300,
+      "primary_crop": "rice",
+      "soil_type": "volcanic",
+      "crops_grown": [
+        { "name": "rice", "value": 45200 },
+        { "name": "mango", "value": 26800 },
+        { "name": "rambutan", "value": 15700 },
+        { "name": "durian", "value": 10700 }
+      ],
+      "farming_methods": [
+        { "name": "conventional", "value": 24200 },
+        { "name": "organic", "value": 11400 }
+      ],
+      "description": "Fruit orchard region with diverse tropical fruits"
+    },
+    {
+      "id": "32-09",
+      "kabkot": "Cirebon",
+      "farmland_hectares": 31200,
+      "annual_yield_tons": 89500,
+      "farmers_count": 24100,
+      "rainfall_mm": 1800,
+      "primary_crop": "rice",
+      "soil_type": "alluvial",
+      "crops_grown": [
+        { "name": "rice", "value": 42300 },
+        { "name": "mango", "value": 23500 },
+        { "name": "shallot", "value": 14200 },
+        { "name": "chili", "value": 9500 }
+      ],
+      "farming_methods": [
+        { "name": "conventional", "value": 18600 },
+        { "name": "irrigation", "value": 12600 }
+      ],
+      "description": "Coastal agricultural area with mango orchards"
+    },
+    {
+      "id": "32-10",
+      "kabkot": "Majalengka",
+      "farmland_hectares": 44800,
+      "annual_yield_tons": 132100,
+      "farmers_count": 36900,
+      "rainfall_mm": 2100,
+      "primary_crop": "rice",
+      "soil_type": "alluvial",
+      "crops_grown": [
+        { "name": "rice", "value": 68500 },
+        { "name": "mango", "value": 32400 },
+        { "name": "corn", "value": 19800 },
+        { "name": "peanut", "value": 11400 }
+      ],
+      "farming_methods": [
+        { "name": "conventional", "value": 28400 },
+        { "name": "mechanized", "value": 16400 }
+      ],
+      "description": "Rice bowl region with Gedong mango specialty"
+    },
+    {
+      "id": "32-11",
+      "kabkot": "Sumedang",
+      "farmland_hectares": 39500,
+      "annual_yield_tons": 108700,
+      "farmers_count": 31200,
+      "rainfall_mm": 2250,
+      "primary_crop": "rice",
+      "soil_type": "volcanic",
+      "crops_grown": [
+        { "name": "rice", "value": 52400 },
+        { "name": "tofu_soybean", "value": 28600 },
+        { "name": "vegetables", "value": 17200 },
+        { "name": "bamboo", "value": 10500 }
+      ],
+      "farming_methods": [
+        { "name": "conventional", "value": 26800 },
+        { "name": "organic", "value": 12700 }
+      ],
+      "description": "Traditional farming area famous for tofu production"
+    },
+    {
+      "id": "32-12",
+      "kabkot": "Indramayu",
+      "farmland_hectares": 115200,
+      "annual_yield_tons": 342800,
+      "farmers_count": 89400,
+      "rainfall_mm": 1600,
+      "primary_crop": "rice",
+      "soil_type": "alluvial",
+      "crops_grown": [
+        { "name": "rice", "value": 215600 },
+        { "name": "mango", "value": 62400 },
+        { "name": "watermelon", "value": 38500 },
+        { "name": "corn", "value": 26300 }
+      ],
+      "farming_methods": [
+        { "name": "mechanized", "value": 52400 },
+        { "name": "irrigation", "value": 38600 },
+        { "name": "conventional", "value": 24200 }
+      ],
+      "description": "Largest rice producer in West Java"
+    },
+    {
+      "id": "32-13",
+      "kabkot": "Subang",
+      "farmland_hectares": 68900,
+      "annual_yield_tons": 198500,
+      "farmers_count": 54200,
+      "rainfall_mm": 2000,
+      "primary_crop": "rice",
+      "soil_type": "alluvial",
+      "crops_grown": [
+        { "name": "rice", "value": 105200 },
+        { "name": "pineapple", "value": 48600 },
+        { "name": "sugarcane", "value": 28400 },
+        { "name": "vegetables", "value": 16300 }
+      ],
+      "farming_methods": [
+        { "name": "mechanized", "value": 38500 },
+        { "name": "conventional", "value": 30400 }
+      ],
+      "description": "Major pineapple and sugarcane production area"
+    },
+    {
+      "id": "32-14",
+      "kabkot": "Purwakarta",
+      "farmland_hectares": 22400,
+      "annual_yield_tons": 58900,
+      "farmers_count": 16800,
+      "rainfall_mm": 2150,
+      "primary_crop": "rice",
+      "soil_type": "alluvial",
+      "crops_grown": [
+        { "name": "rice", "value": 28500 },
+        { "name": "cassava", "value": 14200 },
+        { "name": "vegetables", "value": 9800 },
+        { "name": "fruits", "value": 6400 }
+      ],
+      "farming_methods": [
+        { "name": "conventional", "value": 14800 },
+        { "name": "organic", "value": 7600 }
+      ],
+      "description": "Mixed farming with reservoir irrigation support"
+    },
+    {
+      "id": "32-15",
+      "kabkot": "Karawang",
+      "farmland_hectares": 94300,
+      "annual_yield_tons": 285600,
+      "farmers_count": 72500,
+      "rainfall_mm": 1750,
+      "primary_crop": "rice",
+      "soil_type": "alluvial",
+      "crops_grown": [
+        { "name": "rice", "value": 178400 },
+        { "name": "corn", "value": 52300 },
+        { "name": "soybean", "value": 32600 },
+        { "name": "vegetables", "value": 22300 }
+      ],
+      "farming_methods": [
+        { "name": "mechanized", "value": 42800 },
+        { "name": "irrigation", "value": 32400 },
+        { "name": "conventional", "value": 19100 }
+      ],
+      "description": "National rice granary with extensive irrigation"
+    },
+    {
+      "id": "32-16",
+      "kabkot": "Bekasi",
+      "farmland_hectares": 18600,
+      "annual_yield_tons": 42300,
+      "farmers_count": 11200,
+      "rainfall_mm": 1850,
+      "primary_crop": "rice",
+      "soil_type": "alluvial",
+      "crops_grown": [
+        { "name": "rice", "value": 22400 },
+        { "name": "vegetables", "value": 12500 },
+        { "name": "ornamental_plants", "value": 7400 }
+      ],
+      "farming_methods": [
+        { "name": "conventional", "value": 12400 },
+        { "name": "urban_farming", "value": 6200 }
+      ],
+      "description": "Peri-urban agriculture with declining farmland"
+    },
+    {
+      "id": "32-17",
+      "kabkot": "Bandung Barat",
+      "farmland_hectares": 34200,
+      "annual_yield_tons": 86400,
+      "farmers_count": 27600,
+      "rainfall_mm": 2050,
+      "primary_crop": "vegetables",
+      "soil_type": "volcanic",
+      "crops_grown": [
+        { "name": "vegetables", "value": 42500 },
+        { "name": "strawberry", "value": 18900 },
+        { "name": "tea", "value": 15600 },
+        { "name": "coffee", "value": 9400 }
+      ],
+      "farming_methods": [
+        { "name": "organic", "value": 14200 },
+        { "name": "greenhouse", "value": 11500 },
+        { "name": "terracing", "value": 8500 }
+      ],
+      "description": "Highland agriculture with tea and coffee estates"
+    },
+    {
+      "id": "32-18",
+      "kabkot": "Pangandaran",
+      "farmland_hectares": 28400,
+      "annual_yield_tons": 76200,
+      "farmers_count": 22100,
+      "rainfall_mm": 2800,
+      "primary_crop": "rice",
+      "soil_type": "alluvial",
+      "crops_grown": [
+        { "name": "rice", "value": 35800 },
+        { "name": "coconut", "value": 19400 },
+        { "name": "brown_sugar", "value": 12600 },
+        { "name": "fish", "value": 8400 }
+      ],
+      "farming_methods": [
+        { "name": "conventional", "value": 18200 },
+        { "name": "agroforestry", "value": 10200 }
+      ],
+      "description": "Coastal farming integrated with fisheries"
+    },
+    {
+      "id": "32-71",
+      "kabkot": "Kota Bogor",
+      "farmland_hectares": 2100,
+      "annual_yield_tons": 4800,
+      "farmers_count": 1850,
+      "rainfall_mm": 3400,
+      "primary_crop": "vegetables",
+      "soil_type": "volcanic",
+      "crops_grown": [
+        { "name": "vegetables", "value": 2400 },
+        { "name": "ornamental_plants", "value": 1500 },
+        { "name": "fruits", "value": 900 }
+      ],
+      "farming_methods": [
+        { "name": "urban_farming", "value": 1350 },
+        { "name": "hydroponics", "value": 750 }
+      ],
+      "description": "Urban agriculture with high rainfall"
+    },
+    {
+      "id": "32-72",
+      "kabkot": "Kota Sukabumi",
+      "farmland_hectares": 1800,
+      "annual_yield_tons": 3900,
+      "farmers_count": 1420,
+      "rainfall_mm": 2650,
+      "primary_crop": "vegetables",
+      "soil_type": "volcanic",
+      "crops_grown": [
+        { "name": "vegetables", "value": 1950 },
+        { "name": "fruits", "value": 1200 },
+        { "name": "ornamental_plants", "value": 750 }
+      ],
+      "farming_methods": [
+        { "name": "urban_farming", "value": 1080 },
+        { "name": "organic", "value": 720 }
+      ],
+      "description": "Small-scale urban vegetable production"
+    },
+    {
+      "id": "32-73",
+      "kabkot": "Kota Bandung",
+      "farmland_hectares": 1200,
+      "annual_yield_tons": 2400,
+      "farmers_count": 980,
+      "rainfall_mm": 1900,
+      "primary_crop": "vegetables",
+      "soil_type": "volcanic",
+      "crops_grown": [
+        { "name": "vegetables", "value": 1200 },
+        { "name": "flowers", "value": 720 },
+        { "name": "medicinal_plants", "value": 480 }
+      ],
+      "farming_methods": [
+        { "name": "urban_farming", "value": 540 },
+        { "name": "hydroponics", "value": 380 },
+        { "name": "vertical_farming", "value": 280 }
+      ],
+      "description": "Limited urban agriculture with innovation focus"
+    },
+    {
+      "id": "32-74",
+      "kabkot": "Kota Cirebon",
+      "farmland_hectares": 850,
+      "annual_yield_tons": 1800,
+      "farmers_count": 720,
+      "rainfall_mm": 1700,
+      "primary_crop": "vegetables",
+      "soil_type": "alluvial",
+      "crops_grown": [
+        { "name": "vegetables", "value": 850 },
+        { "name": "mango", "value": 580 },
+        { "name": "chili", "value": 370 }
+      ],
+      "farming_methods": [
+        { "name": "urban_farming", "value": 510 },
+        { "name": "conventional", "value": 340 }
+      ],
+      "description": "Coastal urban farming with limited area"
+    },
+    {
+      "id": "32-75",
+      "kabkot": "Kota Bekasi",
+      "farmland_hectares": 680,
+      "annual_yield_tons": 1200,
+      "farmers_count": 540,
+      "rainfall_mm": 1800,
+      "primary_crop": "vegetables",
+      "soil_type": "alluvial",
+      "crops_grown": [
+        { "name": "vegetables", "value": 720 },
+        { "name": "ornamental_plants", "value": 480 }
+      ],
+      "farming_methods": [
+        { "name": "urban_farming", "value": 420 },
+        { "name": "hydroponics", "value": 260 }
+      ],
+      "description": "Highly urbanized with minimal farmland"
+    },
+    {
+      "id": "32-76",
+      "kabkot": "Depok",
+      "farmland_hectares": 920,
+      "annual_yield_tons": 1950,
+      "farmers_count": 780,
+      "rainfall_mm": 2900,
+      "primary_crop": "vegetables",
+      "soil_type": "volcanic",
+      "crops_grown": [
+        { "name": "vegetables", "value": 980 },
+        { "name": "fruits", "value": 580 },
+        { "name": "ornamental_plants", "value": 390 }
+      ],
+      "farming_methods": [
+        { "name": "urban_farming", "value": 580 },
+        { "name": "organic", "value": 340 }
+      ],
+      "description": "Peri-urban farming under urbanization pressure"
+    },
+    {
+      "id": "32-77",
+      "kabkot": "Cimahi",
+      "farmland_hectares": 540,
+      "annual_yield_tons": 980,
+      "farmers_count": 420,
+      "rainfall_mm": 1950,
+      "primary_crop": "vegetables",
+      "soil_type": "volcanic",
+      "crops_grown": [
+        { "name": "vegetables", "value": 580 },
+        { "name": "flowers", "value": 400 }
+      ],
+      "farming_methods": [
+        { "name": "urban_farming", "value": 320 },
+        { "name": "greenhouse", "value": 220 }
+      ],
+      "description": "Small urban area with limited agriculture"
+    },
+    {
+      "id": "32-78",
+      "kabkot": "Kota Tasikmalaya",
+      "farmland_hectares": 3200,
+      "annual_yield_tons": 7800,
+      "farmers_count": 2650,
+      "rainfall_mm": 2600,
+      "primary_crop": "rice",
+      "soil_type": "alluvial",
+      "crops_grown": [
+        { "name": "rice", "value": 4200 },
+        { "name": "vegetables", "value": 2100 },
+        { "name": "mendong_grass", "value": 1500 }
+      ],
+      "farming_methods": [
+        { "name": "conventional", "value": 2100 },
+        { "name": "organic", "value": 1100 }
+      ],
+      "description": "Urban area known for mendong grass cultivation"
+    },
+    {
+      "id": "32-79",
+      "kabkot": "Banjar",
+      "farmland_hectares": 5800,
+      "annual_yield_tons": 14200,
+      "farmers_count": 4850,
+      "rainfall_mm": 2450,
+      "primary_crop": "rice",
+      "soil_type": "alluvial",
+      "crops_grown": [
+        { "name": "rice", "value": 7400 },
+        { "name": "coconut", "value": 3200 },
+        { "name": "banana", "value": 2100 },
+        { "name": "vegetables", "value": 1500 }
+      ],
+      "farming_methods": [
+        { "name": "conventional", "value": 3800 },
+        { "name": "organic", "value": 2000 }
+      ],
+      "description": "Small city with traditional rice farming"
+    }
+  ]
+}
