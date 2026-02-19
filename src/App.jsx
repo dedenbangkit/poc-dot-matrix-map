@@ -143,8 +143,8 @@ function App() {
   useEffect(() => {
     const fetchData = async () => {
       const [topoRes, agriRes] = await Promise.all([
-        axios.get('/data/west-java.json'),
-        axios.get('/data/west-java-agri-data.json'),
+        axios.get(`${import.meta.env.BASE_URL}data/west-java.json`),
+        axios.get(`${import.meta.env.BASE_URL}data/west-java-agri-data.json`),
       ]);
       setTopoData(topoRes.data);
       setAgriData(agriRes.data);
